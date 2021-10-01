@@ -1,5 +1,8 @@
 # Machine Learning
 
+- All the examples are from [Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- Also, you can find more details in the [link](https://github.com/ageron/handson-ml2)
+
 ## Working on Machine Learning Projects
 
 1. Frame the problem and look at the big picture
